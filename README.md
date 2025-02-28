@@ -3,9 +3,9 @@
 ## A django project where we use xampp control panel as backend.
 
 ### Group Members:
-- Md. Sabik Alam Rahat (Id: 2019-1-60-256) [Branch name: rahat]
-- Humaira Tabassum (Id: 2019-1-60-243) [Branch name: humaira]
-- Kawshik Das (Id: 2018-3-60-058) [Branch name: kawshik]
+- MR MANSUR [Branch name: mansurq]
+- MR ELEKE (Id: 2019-1-60-243) [Branch name: elcIDeal]
+
 
 
 ### Lost & Found
